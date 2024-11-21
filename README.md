@@ -30,7 +30,11 @@ O **URL Shortener** é uma API desenvolvida para encurtar URLs de forma simples 
 <img src="img/requisicao-lambda-url.png" alt="Requests do Projeto" width="1000">
 
 ---
+### 🔗 **Interação das Funções Lambda com API Gateway**
 
+<img src="img/lambda.png" alt="Requests do Projeto" width="1000">
+
+---
 ### 🤝 Contribuições
 Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Para isso:
 1. Faça um *fork* deste repositório.
