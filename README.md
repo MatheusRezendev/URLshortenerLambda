@@ -10,7 +10,7 @@ O **URL Shortener** é uma API desenvolvida para encurtar URLs de forma simples 
 
 #### 🌐 **Sistemas Web e Recursos**
 - **Cliente/Servidor**: Arquitetura de comunicação utilizando HTTP e formato JSON para troca de dados.
-- 
+
 #### 📚 **Estruturação do Projeto**
 - **AWS Lambda**: Funções serverless para processar o encurtamento de URLs.
 - **Amazon S3**: Armazenamento das URLs e dados no bucket da AWS.
